@@ -1,1 +1,0 @@
-print("Don't Simply Learn it, Master It")
